@@ -45,9 +45,3 @@ I build learning systems that connect **vision, language, and structured signals
 | [KOSSDA Data 2025](https://github.com/dusgnwjd/KOSSDA_DATA_2025) | Turnover analysis using panel data and job-review text | Python, pandas, scikit-learn, NLP |
 | [DiscriTune Study](https://github.com/dusgnwjd/discritune) | Reproduction workspace for discriminative image-caption fine-tuning | Python, PyTorch, CLIP, BLIP |
 
-## How I work
-
-- Start from a testable problem definition and a reproducible baseline.
-- Compare models with both quantitative metrics and qualitative error analysis.
-- Keep data generation, training, and evaluation stages separate and traceable.
-- Document limitations and unfinished work instead of presenting assumptions as results.
