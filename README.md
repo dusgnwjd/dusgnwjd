@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=AI%20Research%20%26%20Engineering&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Multimodal%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Anomaly%20Detection&descAlignY=58)
 
 ### Hi, I'm Yeonhoo Jeong 👋
 
