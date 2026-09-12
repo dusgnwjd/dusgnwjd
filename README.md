@@ -34,3 +34,20 @@ I build learning systems that connect **vision, language, and structured signals
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
 ---
+
+## Featured projects
+
+| Project | What I worked on | Stack |
+| --- | --- | --- |
+| [Controlled Self-Distillation IAD](https://github.com/dusgnwjd/Controlled-Self-Distillation-IAD) | Industrial anomaly reasoning with staged supervision, self-distillation, and verifier-aware training | Python, PyTorch, VLM, SFT, GRPO |
+| [DE-YOLOv8](https://github.com/dusgnwjd/DE-YOLOv8) | Face detection experiment with landmark alignment and activation-guided dynamic erasing | Python, YOLOv8, OpenCV, dlib |
+| [Korean Sarcasm Detection](https://github.com/dusgnwjd/sarcasm) | Context-aware Korean sarcasm analysis and classification on KoCoSa | Python, Transformers, KoBERT |
+| [KOSSDA Data 2025](https://github.com/dusgnwjd/KOSSDA_DATA_2025) | Turnover analysis using panel data and job-review text | Python, pandas, scikit-learn, NLP |
+| [DiscriTune Study](https://github.com/dusgnwjd/discritune) | Reproduction workspace for discriminative image-caption fine-tuning | Python, PyTorch, CLIP, BLIP |
+
+## How I work
+
+- Start from a testable problem definition and a reproducible baseline.
+- Compare models with both quantitative metrics and qualitative error analysis.
+- Keep data generation, training, and evaluation stages separate and traceable.
+- Document limitations and unfinished work instead of presenting assumptions as results.
